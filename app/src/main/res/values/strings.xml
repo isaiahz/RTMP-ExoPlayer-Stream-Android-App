@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RTMP ExoPlayer Stream</string>
+    <string name="path_url">https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4</string>
+</resources>
