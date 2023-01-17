@@ -92,7 +92,7 @@ class MainActivity : AppCompatActivity() {
 //        urlType.url = "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
 
         urlType = URLType.HLS
-        urlType.url = "http://192.168.1.104:8080/hls/test.m3u8"
+        urlType.url = "http://***.***.*.***:****/hls/test.m3u8"
 
         simpleExoPlayer.seekTo(0)
 
